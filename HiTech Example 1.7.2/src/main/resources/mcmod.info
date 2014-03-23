@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hitech",
+  "name": "LordMastodon's HiTech Mod!",
+  "description": "This is a really cool mod that adds a lot of really cool Hi-Tech looking content into your Minecraft experience!",
+  "version": "Beta v1.00",
+  "mcversion": "${mcversion}",
+  "url": "N/A",
+  "updateUrl": "",
+  "authors": ["LordMastodon"],
+  "credits": "LordMastodon FTW!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
